@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj" />
+    <ProjectReference Include="..\Reservation.API.Models\Reservation.API.Models.csproj" />
+    <ProjectReference Include="..\Reservation.API.Services\Reservation.API.Services.csproj" />
+  </ItemGroup>
+
+</Project>
