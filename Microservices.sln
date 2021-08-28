@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGetaway", "APIGetaway\APIGetaway.csproj", "{A52AB5A1-F0E7-4A29-8E2E-16DCC0BDE303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGetaway\APIGateway.csproj", "{A52AB5A1-F0E7-4A29-8E2E-16DCC0BDE303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API", "ContactAPI\Contact.API\Contact.API.csproj", "{7E603093-D566-41F0-A11D-797DB423E36D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API", "ContactAPI\Contact.API\Contact.API.csproj", "{7E603093-D566-41F0-A11D-797DB423E36D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactAPI", "ContactAPI", "{756BC378-9AAA-4A60-857F-CE6865AE8AEB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReservationAPI", "ReservationAPI", "{CD9E2356-8097-4AB7-8832-67121917EC76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.API", "ReservationAPI\Reservation.API\Reservation.API.csproj", "{6BF21338-8EEE-47AC-9CF3-AAE859142A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API", "ReservationAPI\Reservation.API\Reservation.API.csproj", "{6BF21338-8EEE-47AC-9CF3-AAE859142A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API.Infrastructure", "ContactAPI\Contact.API.Infrastructure\Contact.API.Infrastructure.csproj", "{9D3E2573-15D9-4C6D-9441-D7EB8467294B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API.Infrastructure", "ContactAPI\Contact.API.Infrastructure\Contact.API.Infrastructure.csproj", "{9D3E2573-15D9-4C6D-9441-D7EB8467294B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API.Models", "ContactAPI\Contact.API.Models\Contact.API.Models.csproj", "{586F64C1-E773-4077-8FB5-3F7829FB2D5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API.Models", "ContactAPI\Contact.API.Models\Contact.API.Models.csproj", "{586F64C1-E773-4077-8FB5-3F7829FB2D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API.Servcies", "ContactAPI\Contact.API.Servcies\Contact.API.Servcies.csproj", "{BC817D94-7C52-4FEE-AB33-B3155887F216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API.Servcies", "ContactAPI\Contact.API.Servcies\Contact.API.Servcies.csproj", "{BC817D94-7C52-4FEE-AB33-B3155887F216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.API.Infrastructure", "ReservationAPI\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj", "{5776593A-F24A-456A-A4F6-03605A189D22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API.Infrastructure", "ReservationAPI\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj", "{5776593A-F24A-456A-A4F6-03605A189D22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.API.Models", "ReservationAPI\Reservation.API.Models\Reservation.API.Models.csproj", "{6B51BF56-917E-4912-9FE5-FF83D4DD0AD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API.Models", "ReservationAPI\Reservation.API.Models\Reservation.API.Models.csproj", "{6B51BF56-917E-4912-9FE5-FF83D4DD0AD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation.API.Services", "ReservationAPI\Reservation.API.Services\Reservation.API.Services.csproj", "{87F84F89-AA1A-43EE-93CC-7109BE92A01C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservation.API.Services", "ReservationAPI\Reservation.API.Services\Reservation.API.Services.csproj", "{87F84F89-AA1A-43EE-93CC-7109BE92A01C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
